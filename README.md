@@ -1,4 +1,4 @@
-[ex-4.1.pdf](https://github.com/user-attachments/files/18310717/ex-4.1.pdf)[Rajasekar. LLR.pdf](https://github.com/user-attachments/files/18310716/Rajasekar.LLR.pdf)# EX No.3.2. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
+# EX No.3.2. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
 ## DATE:
 ## AIM:
 To create a 3D model from given orthographic projection.
@@ -43,7 +43,7 @@ To create a 3D model from given orthographic projection.
 
 ## OUTPUT:
 
-[exp-3.2.pdf](https://github.com/user-attachments/files/18310715/exp-3.2.pdf)
+![exp-3.2.pdf](https://github.com/user-attachments/files/18310715/exp-3.2.pdf)
 
 
 ## RESULT:
